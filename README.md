@@ -12,5 +12,5 @@
     * increase the font-size
     * align text to be centered
   * img
-    * float the image to the left or right so the <p> text floats around it
+    * float the image to the left or right so the `<p>` text floats around it
 * Upload files to GitHub and submit [RawGit](https://rawgit.com/) URL to OnCampus
